@@ -1,2 +1,1 @@
-# aditechid
-Project #1 | website portofolio pribadi
+My first project to build a web page
